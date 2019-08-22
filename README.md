@@ -2,7 +2,7 @@
 
 A concept sign up page for Aperture Laboratories from Portal Games
 
-![Image Glitch Effect](https://tympanus.net/codrops/wp-content/uploads/2017/12/ImageGlitchEffect_Featured.jpg)
+![](/screenshot.gif)
 
 
 
